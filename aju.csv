@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7f9fc"/><stop offset="1" stop-color="#edf2f8"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="7" stdDeviation="10" flood-color="#22314d" flood-opacity=".10"/></filter>
+  </defs>
+  <rect width="1400" height="820" fill="url(#bg)"/>
+  <rect width="236" height="820" fill="#17233b"/>
+  <text x="32" y="58" font-family="Segoe UI, Arial" font-size="28" font-weight="700" fill="white">NORTHSTAR</text>
+  <text x="32" y="83" font-family="Segoe UI, Arial" font-size="13" fill="#aebbd2">SALES ANALYTICS</text>
+  <g font-family="Segoe UI, Arial" font-size="16" fill="#c5d0e3">
+    <text x="35" y="154">⌂  Overview</text><text x="35" y="207">▣  Sales</text><text x="35" y="260">◔  Customers</text><text x="35" y="313">◫  Products</text>
+  </g>
+  <rect x="18" y="119" width="200" height="52" rx="10" fill="#315cce"/>
+  <text x="65" y="152" font-family="Segoe UI, Arial" font-size="16" font-weight="600" fill="white">Overview</text>
+  <text x="278" y="58" font-family="Segoe UI, Arial" font-size="30" font-weight="700" fill="#1a2740">Sales Dashboard</text>
+  <text x="280" y="87" font-family="Segoe UI, Arial" font-size="15" fill="#6d7b92">Performance overview · October 2026</text>
+  <rect x="1121" y="37" width="234" height="48" rx="9" fill="white" stroke="#dce4f0"/>
+  <text x="1140" y="67" font-family="Segoe UI, Arial" font-size="15" fill="#44536b">01 Oct – 31 Oct 2026</text>
+  <g filter="url(#shadow)">
+    <rect x="278" y="122" width="252" height="140" rx="14" fill="white"/><rect x="549" y="122" width="252" height="140" rx="14" fill="white"/><rect x="820" y="122" width="252" height="140" rx="14" fill="white"/><rect x="1091" y="122" width="264" height="140" rx="14" fill="white"/>
+  </g>
+  <g font-family="Segoe UI, Arial"><text x="302" y="158" font-size="14" fill="#718097">Total Revenue</text><text x="302" y="207" font-size="32" font-weight="700" fill="#1a2740">$128.4K</text><text x="302" y="237" font-size="14" fill="#1c9c6b">↑ 12.5% vs last month</text>
+  <text x="573" y="158" font-size="14" fill="#718097">Total Orders</text><text x="573" y="207" font-size="32" font-weight="700" fill="#1a2740">1,248</text><text x="573" y="237" font-size="14" fill="#1c9c6b">↑ 8.2% vs last month</text>
+  <text x="844" y="158" font-size="14" fill="#718097">Average Order Value</text><text x="844" y="207" font-size="32" font-weight="700" fill="#1a2740">$102.88</text><text x="844" y="237" font-size="14" fill="#dd8a14">↓ 1.4% vs last month</text>
+  <text x="1115" y="158" font-size="14" fill="#718097">New Customers</text><text x="1115" y="207" font-size="32" font-weight="700" fill="#1a2740">356</text><text x="1115" y="237" font-size="14" fill="#1c9c6b">↑ 18.9% vs last month</text></g>
+  <g filter="url(#shadow)"><rect x="278" y="286" width="685" height="300" rx="14" fill="white"/><rect x="986" y="286" width="369" height="300" rx="14" fill="white"/><rect x="278" y="610" width="1077" height="170" rx="14" fill="white"/></g>
+  <g font-family="Segoe UI, Arial"><text x="306" y="327" font-size="18" font-weight="700" fill="#1a2740">Monthly Revenue Trend</text><text x="306" y="351" font-size="13" fill="#718097">Revenue by week</text></g>
+  <g stroke="#e8edf5" stroke-width="1"><line x1="330" y1="410" x2="920" y2="410"/><line x1="330" y1="465" x2="920" y2="465"/><line x1="330" y1="520" x2="920" y2="520"/></g>
+  <path d="M340 505 C380 480 390 487 425 456 S485 484 515 435 S580 447 612 400 S676 420 710 385 S775 405 808 365 S870 382 915 332" fill="none" stroke="#315cce" stroke-width="5" stroke-linecap="round"/>
+  <path d="M340 505 C380 480 390 487 425 456 S485 484 515 435 S580 447 612 400 S676 420 710 385 S775 405 808 365 S870 382 915 332 L915 540 L340 540Z" fill="#315cce" opacity=".10"/>
+  <g fill="#315cce"><circle cx="425" cy="456" r="5"/><circle cx="515" cy="435" r="5"/><circle cx="612" cy="400" r="5"/><circle cx="710" cy="385" r="5"/><circle cx="808" cy="365" r="5"/><circle cx="915" cy="332" r="5"/></g>
+  <g font-family="Segoe UI, Arial" font-size="12" fill="#7a879a"><text x="337" y="562">Week 1</text><text x="430" y="562">Week 2</text><text x="528" y="562">Week 3</text><text x="627" y="562">Week 4</text><text x="726" y="562">Week 5</text><text x="825" y="562">Week 6</text></g>
+  <text x="1014" y="327" font-family="Segoe UI, Arial" font-size="18" font-weight="700" fill="#1a2740">Sales by Category</text>
+  <g transform="translate(1170 440)"><circle r="85" fill="none" stroke="#e7ecf5" stroke-width="28"/><circle r="85" fill="none" stroke="#315cce" stroke-width="28" stroke-dasharray="225 309" transform="rotate(-90)"/><circle r="85" fill="none" stroke="#44b58b" stroke-width="28" stroke-dasharray="130 404" stroke-dashoffset="-238" transform="rotate(-90)"/><circle r="85" fill="none" stroke="#f2ae45" stroke-width="28" stroke-dasharray="77 457" stroke-dashoffset="-380" transform="rotate(-90)"/><text x="-40" y="-4" font-family="Segoe UI, Arial" font-size="14" fill="#718097">Total</text><text x="-43" y="23" font-family="Segoe UI, Arial" font-size="23" font-weight="700" fill="#1a2740">$128K</text></g>
+  <g font-family="Segoe UI, Arial" font-size="13" fill="#53627a"><circle cx="1018" cy="548" r="5" fill="#315cce"/><text x="1030" y="553">Electronics 52%</text><circle cx="1142" cy="548" r="5" fill="#44b58b"/><text x="1154" y="553">Furniture 30%</text><circle cx="1260" cy="548" r="5" fill="#f2ae45"/><text x="1272" y="553">Other 18%</text></g>
+  <text x="306" y="650" font-family="Segoe UI, Arial" font-size="18" font-weight="700" fill="#1a2740">Top Performing Regions</text>
+  <g font-family="Segoe UI, Arial"><text x="310" y="694" font-size="14" fill="#53627a">West</text><rect x="405" y="680" width="640" height="16" rx="8" fill="#e8edf5"/><rect x="405" y="680" width="545" height="16" rx="8" fill="#315cce"/><text x="1080" y="694" font-size="14" font-weight="600" fill="#1a2740">$54.5K</text>
+  <text x="310" y="733" font-size="14" fill="#53627a">South</text><rect x="405" y="719" width="640" height="16" rx="8" fill="#e8edf5"/><rect x="405" y="719" width="442" height="16" rx="8" fill="#44b58b"/><text x="1080" y="733" font-size="14" font-weight="600" fill="#1a2740">$44.2K</text>
+  <text x="310" y="772" font-size="14" fill="#53627a">East</text><rect x="405" y="758" width="640" height="16" rx="8" fill="#e8edf5"/><rect x="405" y="758" width="298" height="16" rx="8" fill="#f2ae45"/><text x="1080" y="772" font-size="14" font-weight="600" fill="#1a2740">$29.7K</text></g>
+</svg>
